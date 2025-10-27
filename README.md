@@ -40,6 +40,14 @@ Tailwind CSS: Utility-first CSS framework for styling.
 
 Babel: Used to transpile JSX in the browser.
 
+Application Screenshots
+
+Here's what the application looks like.
+
+Main View (Creating & Reading Posts):
+
+Editing a Post:[Editing ](./assets/edit.png)
+
 ## Setup and Installation
 
 To run this project, you need to run the backend server and the frontend client separately.
@@ -51,18 +59,15 @@ Clone/Download: Get the backend code onto your local machine.
 Install Dependencies: Open a terminal in the backend project's root folder and run:
 
 npm install
-npm install cors 
-
+npm install cors
 
 Set Up Environment Variables: Create a .env file in the root of the backend folder and add your MongoDB connection string:
 
 MONGO_URI=your_mongodb_connection_string_here
 
-
 Run the Server:
 
 node server.js
-
 
 The server will start, typically on http://localhost:3000.
 
@@ -75,7 +80,6 @@ Serve the File: You cannot open this file directly in the browser. You must serv
 Run the Server: Open a terminal in the folder containing blog-frontend.html and run:
 
 npx serve
-
 
 Open the App: serve will give you a URL, usually http://localhost:3000 or http://localhost:5000. Open this URL in your browser to use the application.
 
