@@ -44,7 +44,9 @@ Application Screenshots
 
 Here's what the application looks like.
 
-Main View (Creating & Reading Posts):
+Main View (Creating ):[Creating new posts ](./assets/create.png)
+
+Reading posts:[Read posts ](./assets/posts.png)
 
 Editing a Post:[Editing ](./assets/edit.png)
 
